@@ -257,7 +257,9 @@ def main():
 
         restart = input('\n- Would you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print("You are exiting the tool, Thank you !")
             break
+    
 
 
 if __name__ == "__main__":
