@@ -1,9 +1,6 @@
 
 ### Date created
-new_york_city.csv
-chicago.csv
-washington.csv
-README.md
+06.07.2024
 
 ### Project Title
 US Bike Share project
