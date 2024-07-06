@@ -231,8 +231,7 @@ def main():
         city, month, day = get_filters()
         print('you chose: '+city+' '+month+' '+day)
         df = load_data(city, month, day)
-        #print(df.columns)
-        #print(df.head())
+        
 
         time_stats(df)
         station_stats(df)
