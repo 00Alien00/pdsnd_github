@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import sys
 
+'''This project is built to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington'''
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
